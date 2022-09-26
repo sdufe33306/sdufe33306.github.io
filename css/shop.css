@@ -1,0 +1,92 @@
+
+#shop{
+	  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  margin-top: 60px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sneaker img {
+  width: 250px;
+  height:350px;
+  padding: 0;
+  margin-top: -30PX;
+}
+
+
+.info h1 {
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+}
+.info h3 {
+  font-size:20px;
+  padding: 2rem 0rem;
+  color: #585858;
+  font-weight: lighter;
+  margin: 0;
+
+
+}
+
+.purchase {
+  margin-top: 1rem;
+
+}
+.purchase button {
+  width: 100%;
+  padding: 1rem 0rem;
+  background: #f54642;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 30px;
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
+
+/* 标题 */
+.biaoti {
+	margin-top: 80px;
+}
+
+.biaoti .biaoti1 {
+  width: 300px;
+  height: 80px;
+  left: 30px;
+  margin-top: 2px;
+  position: relative;
+  background-color: #eaeaea;
+
+}
+
+.biaoti .p1 img{
+	width: 20px;
+	height: 30px;
+	margin-left: 20px;
+}
+.biaoti .biaoti1 .biaoti2{
+	margin-top: -10px;
+	text-align: center;
+}
+.biaoti .biaoti1 .biaoti2 p{
+	font-size: 30px;
+	font-family: "黑体";
+}
+
+.biaoti .biaoti1 .p2{
+		margin-top: -60px;
+		margin-left: 220px;
+}
+
+.biaoti .biaoti1 .p2 img{
+	width: 25px;
+	height: 30px;
+
+}
